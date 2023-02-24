@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": " Arlindo Cruz",
+            "email": "arlindocruz@servico.com"
+        },
+        {
+            "id": 2,
+            "name": "Osvaldo José",
+            "email": "osvaldojose@servico.com"
+        }
+    ]
+}
