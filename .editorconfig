@@ -1,0 +1,16 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+
+#break lines representation
+#@see https://stackoverflow.com/questions/1552749/difference-between-cr-lf-lf-and-cr-line-break-types
+end_of_line = lf
+charset = utf-8
+
+#in final of a line it removes any whitespace
+trim_trailing_whitespace = true
+
+#insert a new line on save
+insert_final_newline = true
